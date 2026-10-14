@@ -13,7 +13,7 @@ export default function Footer() {
             rel="noopener noreferrer"
             className="text-ink-dim hover:text-accent transition-colors duration-300"
           >
-            WhatsApp
+            Guermi Lab
           </a>
           <span className="text-ink-darker">© 2026</span>
         </div>
